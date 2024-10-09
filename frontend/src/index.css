@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.ListName{
+    font-size: 4vh;
+    margin: 30px 0px 0px 0px;
+    text-align: center;
+    background-color: #8fa4c0;
+    width: 30vw;
+    border-radius: 12px;
+}
